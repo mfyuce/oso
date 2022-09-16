@@ -296,7 +296,7 @@ public class Ffi {
       prefix = "libpolar";
       suffix = ".dylib";
     } else {
-      path = "linux/libpolar.so";
+      path = "/linux/libpolar.so";
       prefix = "libpolar";
       suffix = ".so";
     }
